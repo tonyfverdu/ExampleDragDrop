@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Lato', sans-serif;
+  background-color: white;
+  width: 100%;
+  height: 100vh;
+  padding: 0%;
+  margin: 0%;
+}
+
+
+
+/* FILE UPLOAD */
+/*
+.dropzone {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
+  border: 5px dashed rgb(117, 112, 112);
+  padding: 2rem;
+}
+
+.active {
+  background-color: #5f5959;
+}
+
+button {
+  padding: 1rem;
+  margin: 1rem;
+  font-size: medium;
+}
+
+
+.list-item {
+}
+
+.list-item>h3 {
+  padding: 10px;
+  margin: 0;
+}
+
+.list-item>span {
+  margin-right: 10px;
+  font-size: 24px;
+  font-weight: bold;
+  border-right: 2px solid white;
+  padding: 10px;
+  padding-right: 16px;
+}
+
+.next-position {
+  border: 2px solid #34d44f;
+  opacity: 0.2;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    color: #213547;
+    background-color: #ffffff;
+  }
+
+  a:hover {
+    color: #747bff;
+  }
+
+  button {
+    background-color: #f9f9f9;
+  }
+}
+
+*/
